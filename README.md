@@ -16,9 +16,9 @@ Foi desenvolvido para funcionar na consola/interface de linha de comando
 * Verificar a quantidade por cursos
 * Verificar o estado de admissao
 
-##Ambiente de Desenvolvimento
+## Ambiente de Desenvolvimento
 * IntelliJ IDEA
 
-##Java Version
+## Java Version
 * JDK 11 LTS
 
